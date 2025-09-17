@@ -1,0 +1,1 @@
+gradient descent using python is a method for finding the minima of the error function in something called analogously as the loss function. we find the error in n dimentions and minimize it by taking A steps say.

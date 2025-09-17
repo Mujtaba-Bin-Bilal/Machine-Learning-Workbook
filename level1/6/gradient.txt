@@ -1,0 +1,1 @@
+this file is created as a supplement to gradient function manual approxiation in 2d
